@@ -278,9 +278,6 @@ local plugin_specs = {
   -- Multiple cursor plugin like Sublime Text?
   -- 'mg979/vim-visual-multi'
 
-  -- Autosave files on certain events
-  { "907th/vim-auto-save", event = "InsertEnter" },
-
   -- Show undo history visually
   { "simnalamburt/vim-mundo", cmd = { "MundoToggle", "MundoShow" } },
 
